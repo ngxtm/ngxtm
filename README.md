@@ -1,8 +1,4 @@
-<h1 align="center">Xin chào 👋, Mình là Minh</h1>
-
-###
-
-<p align="center">Mình là 1 lập trình viên Fullstack</p>
+<h1 align="center">I'M A DEV</p>
 
 ###
 
