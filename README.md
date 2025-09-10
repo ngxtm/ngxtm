@@ -1,5 +1,8 @@
 <h1 align="center">I'M MINH</h1>
-<p>I'm a Full-stack developer</p>
+
+###
+
+<p align="center">I'm a Full-stack developer</p>
 
 ###
 
