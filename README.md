@@ -1,4 +1,4 @@
-<h1 align="center">I'M MINH</h1>
+<h1 align="center">Hi, I'm MINH</h1>
 
 ###
 
